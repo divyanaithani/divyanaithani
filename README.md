@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @divyanaithani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ..
+👋 Hi, I’m DIVYA NAITHANI
 
 📊 Data Analyst | Power BI | SQL | MS Excel
 
