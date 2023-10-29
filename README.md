@@ -1,16 +1,6 @@
 👋 Hi, I’m DIVYA NAITHANI
 
 📊 Data Analyst | Power BI | SQL | MS Excel
-
-🔍 Exploring insights from data to drive informed decisions. Passionate about transforming raw data into actionable insights. 
-
-🚀 Skills:
-- **Languages:**  SQL, RCertainly! Here's an example of a bio for your GitHub profile as a Data Analyst:
-
----
-
-📊 Data Analyst | Python | SQL | Machine Learning
-
 🔍 Exploring insights from data to drive informed decisions. Passionate about transforming raw data into actionable insights. 
 
 🚀 Skills:
