@@ -25,7 +25,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 ## 🌐 Connect With Me: <img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/divyanaithani/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanaithani/) 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
