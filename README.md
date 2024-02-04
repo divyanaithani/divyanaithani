@@ -13,7 +13,7 @@
 
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
 <img align="right" alt="coding" width="250" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
-🔭 <b>Data Scientist & Data Analyst</b><br>
+🔭 <b> Data Analyst</b><br>
 🌱 Upgrading in the field of <b>Data Analysis and Data Science</b><br>
 🗺 Graduated from <b>Graphic Era University, Dehradun</b><br>
 👨‍💻 Projects are available on <b><a href="https://github.com/divyanaithani/divyanaithani/">GitHub</a></b></b><br>
