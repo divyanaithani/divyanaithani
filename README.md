@@ -17,7 +17,7 @@
 🌱 Upgrading in the field of <b>Data Analysis and Data Science</b><br>
 🗺 Graduated from <b>Graphic Era University, Dehradun</b><br>
 👨‍💻 Projects are available on <b><a href="https://github.com/divyanaithani/divyanaithani/">GitHub</a></b></b><br>
-📊 Data& Business Analysis Dashboard on <b><a href="https://public.tableau.com/app/profile/divya.naithani/">Tableau</a></b><br>
+📊 Data& Business Analysis Dashboard on <b><a href="https://www.novypro.com/profile_projects/divyanaithani">Power BI & Tableau</a></b><br>
 💬 Ask me about <b>Data Analysis </b><br>
 👨‍⚖️ Portfolio Profile <b><a href="https://linktr.ee/naithanidivya">Data Analyst Portfolio</a></b><br>
 ⚜  If you know me then you know me.<br>
